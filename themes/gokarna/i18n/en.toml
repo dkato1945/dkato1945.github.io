@@ -1,0 +1,14 @@
+[Recent]
+  other = 'Recent'
+[error404]
+  other = 'このページはないよー　戻ってね'
+[home]
+  other = ''
+[nothing]
+  other = 'このページはないよー'
+[previous]
+  other = 'Previous'
+[next]
+  other = 'Next'
+[tags]
+  other = 'Tags'
